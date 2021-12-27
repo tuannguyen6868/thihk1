@@ -1,0 +1,42 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+.main {
+    text-align: center;
+    margin-top: 50px;    
+}
+
+.header {
+    font-size: 100px;
+    color: brown;
+    text-transform: uppercase;
+    font-family: cursive;
+    font-weight: bold;
+    margin-bottom: 50px;
+}
+
+img {
+    height: 200px;
+    width: 250px;
+}
+
+.content {
+    display: inline-block;
+    width: 25%;    
+    padding: 70px 100px;
+    margin-bottom: 40px;
+    margin-left: 20px;
+    margin-right: 20px;
+    background-color: rgb(112, 136, 116);
+}
+
+
+.text {
+    font-size: 30px;
+    color: rgb(255, 255, 255);
+    font-family: Helvetica;
+    font-style: italic;
+    padding-top: 20px;
+}
